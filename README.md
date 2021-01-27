@@ -1,16 +1,17 @@
-# img_lite
+IMG Lite app helps to compress, resize, and crop images. You can reduce image size smoothly with different modes.
 
-This application is used for Compression,Resize and crop.
+Highlight feature:
+1)-Compress multiple files
+2)-Compress in percentage
+3)-Compress in KiloBytes(KB)
+4)-Resize multiple images
+5)-Resize in pixels(width and hight)
+6)-Resize in percentage
+7)-Resize and compress in different modes
+8)-Crop image with different rotation
 
-## Getting Started
+Compress image function is used to compress an image in percentage and KiloBytes(KB). You can easily decide the size of the image through different modes such as size and percentage. The Slider can be used to vary the size or percentage. After pressing the "Compress" button image is automatically saved inside a folder named IMG Lite located in internal storage.
 
-This project is a starting point for a Flutter application.
+Resize image function is used to resize the image in percentage and pixels(width and height). You can easily decide the size of the image with different modes. In percentage, you have to use a slider and in pixel, you have to write width and height. After pressing the "Resize" button image is automatically saved inside a folder named IMG Lite located in internal storage.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crop function is used to remove the unwanted area in the image and rotate the image with a different angle and save in "IMG Lite" folder located in internal storage.
